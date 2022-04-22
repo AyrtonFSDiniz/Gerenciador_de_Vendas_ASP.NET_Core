@@ -1,0 +1,8 @@
+## A Refatorar ##
+
+2 - Colocar como na pesquisa simples a opção de 
+poder não inserir data de inicio e fim para pesquisar
+
+3 - Criar métodos para cadastrar as vendas e não só via seeding.
+
+4 - Corrigir os erros de edição, detalhes e delete dos itens do Department.
